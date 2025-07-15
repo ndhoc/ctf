@@ -19,9 +19,52 @@ Thử truy cập `http://challenge01.root-me.org/web-serveur/ch15/ch15.php?galer
 Đi `ctrl+u`
 
 ```html
+
+
 <html>
-      <body><link rel='stylesheet' property='stylesheet' id='s' type='text/css' href='/template/s.css' media='all' /><iframe id='iframe' src='https://www.root-me.org/?page=externe_header'></iframe>
-	  <h1>Photo gallery v 0.01</h1><span id="mnenu"/>&nbsp;|&nbsp;<span><a href="?galerie=emotes">emotes</a></span>&nbsp;|&nbsp;<span><a href="?galerie=apps">apps</a></span>&nbsp;|&nbsp;<span><a href="?galerie=devices">devices</a></span>&nbsp;|&nbsp;<span><a href="?galerie=categories">categories</a></span>&nbsp;|&nbsp;<span><a href="?galerie=actions">actions</a></span>&nbsp;|</span><span style='text-align: right; float:right;'>Connected as : <b>guest</b></span><br/><hr/><table id="content"><tr></tr><tr><td><img width="64px" height="64px" src="galerie/86hwnX2r/password.txt" alt="password.txt"></td><td><img width="64px" height="64px" src="galerie/86hwnX2r/hacked_web.jpg" alt="hacked_web.jpg"></td><td><img width="64px" height="64px" src="galerie/86hwnX2r/secret.png" alt="secret.png"></td></tr><tr></tr></table></body></html>
+	<body>
+		<link rel='stylesheet' property='stylesheet' id='s' type='text/css' href='/template/s.css' media='all' />
+		<iframe id='iframe' src='https://www.root-me.org/?page=externe_header'></iframe>
+		<h1>Photo gallery v 0.01</h1>
+		<span id="mnenu"/>&nbsp;|&nbsp;
+		<span>
+			<a href="?galerie=emotes">emotes</a>
+		</span>&nbsp;|&nbsp;
+		<span>
+			<a href="?galerie=apps">apps</a>
+		</span>&nbsp;|&nbsp;
+		<span>
+			<a href="?galerie=devices">devices</a>
+		</span>&nbsp;|&nbsp;
+		<span>
+			<a href="?galerie=categories">categories</a>
+		</span>&nbsp;|&nbsp;
+		<span>
+			<a href="?galerie=actions">actions</a>
+		</span>&nbsp;|
+	</span>
+	<span style='text-align: right; float:right;'>Connected as : 
+		<b>guest</b>
+	</span>
+	<br/>
+	<hr/>
+	<table id="content">
+		<tr></tr>
+		<tr>
+			<td>
+				<img width="64px" height="64px" src="galerie/86hwnX2r/password.txt" alt="password.txt">
+				</td>
+				<td>
+					<img width="64px" height="64px" src="galerie/86hwnX2r/hacked_web.jpg" alt="hacked_web.jpg">
+					</td>
+					<td>
+						<img width="64px" height="64px" src="galerie/86hwnX2r/secret.png" alt="secret.png">
+						</td>
+					</tr>
+					<tr></tr>
+				</table>
+			</body>
+		</html>
 ```
 
 Trong đoạn mã có dòng ```html src="galerie/86hwnX2r/password.txt"``` truy cập để lấy pass.
