@@ -67,10 +67,7 @@ Thử truy cập `http://challenge01.root-me.org/web-serveur/ch15/ch15.php?galer
 		</html>
 ```
 
-Trong đoạn mã có dòng
-```html 
-src="galerie/86hwnX2r/password.txt"
-```
+Trong đoạn mã có dòng `src="galerie/86hwnX2r/password.txt"`
 truy cập để lấy pass.
 
 <img width="928" height="139" alt="image" src="https://github.com/user-attachments/assets/e30e5381-2c72-484f-9302-1f8592484e0d" />
