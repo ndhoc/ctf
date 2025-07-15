@@ -23,7 +23,7 @@ Thử truy cập vào folder `1752553230`.
 
 ![Operation mode](./imgs/c.png)
 
-Ta thấy ở đây web đã giải nén file zip mình đã upload lên trước đó và hiện ra file shell.php, vậy thì ta sẽ thử đọc thử flag.txt xem thử được không.
+Ta thấy ở đây web đã giải nén file zip mình đã upload lên trước đó và hiện ra file `shell.php`, vậy thì ta sẽ thử đọc thử `flag.txt` xem thử được không.
 
 Mình nghĩ folder của challenges sẽ là `challenges/view_folder/1752553230` và file `flag.txt` sẽ cùng cấp với folder challenges nên mình thử dùng burp suite với lệnh get để back ra khỏi 3 folder:
 
