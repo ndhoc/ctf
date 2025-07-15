@@ -13,6 +13,9 @@ Upload a zip file, the system will be extract to you.
 
 Đầu tiên cứ vào web trước
 
-<img width="551" height="302" alt="image" src="https://github.com/user-attachments/assets/0029a04e-1e5b-4a04-ae68-cc63b35fb140" />
+![Operation mode](./imgs/Screenshot 2025-07-15 110755.png)
+
+
+
 
 
